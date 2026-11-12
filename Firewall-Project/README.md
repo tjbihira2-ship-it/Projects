@@ -14,4 +14,4 @@ My section covers the OPNsense firewall setup and testing, including:
 
 ## Report
 
-The full group assessment report is included in `Firewall Project.pdf`.
+The full group assessment report can be added to this folder as `Firewall Project.pdf`.
